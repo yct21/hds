@@ -1,0 +1,1 @@
+{:name boot.cljs.main8730, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires {adzerk.boot-cljs-repl adzerk.boot-cljs-repl, adzerk.boot-reload.init1081 adzerk.boot-reload.init1081, histology-digital-slides.core histology-digital-slides.core}, :imports nil}
